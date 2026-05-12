@@ -2,8 +2,5 @@ line2
 main branch
 chane2
 local change
-test change
-<<<<<<< HEAD
-
->>>>>>> test
 main change
+test change
